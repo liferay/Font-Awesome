@@ -46,5 +46,6 @@
   ],
   "dependencies": {
     "less": "1.4.1"
-  }
+  },
+  "main": "src/index.js"
 }
